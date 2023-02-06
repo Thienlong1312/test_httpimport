@@ -1,2 +1,2 @@
 def print_hello():
-  print('Hello httpimport 2')
+  print('Hello httpimport 3')
